@@ -17,4 +17,4 @@
 /tmp
 
 # Django settings.py SECRET_KEY file
-setrets.json
+secrets.json
