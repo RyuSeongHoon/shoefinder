@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Django settings.py SECRET_KEY file
+setrets.json
